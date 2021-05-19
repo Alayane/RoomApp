@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Room App</string>
+    <string name="ajouter_un_produit">Ajouter un produit</string>
+    <string name="modifier_un_produit">modifier un produit</string>
+    <string name="supprimer_un_produit">supprimer un produit</string>
+    <string name="afficher_tous_les_produits">afficher tous les produits</string>
+    <string name="num_produit">Num produit</string>
+    <string name="designation">Designation</string>
+    <string name="prix_unitaire">Prix unitaire</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="menu">Menu</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="modifier">Modifier</string>
+    <string name="supprimer">supprimer</string>
+    <string name="liste_des_produits">Liste des produits</string>
+</resources>
